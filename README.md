@@ -1,2 +1,2 @@
 # CIVENG187
-CIVENG 187 Assignments
+Welcome to my CE187 repo
